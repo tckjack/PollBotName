@@ -1,3 +1,6 @@
+#Poll with name bot 
+Test to make a poll name list when people vote
+
 This PollBot is a simple PHP bot for Telegram that can create polls in groups. The bot uses the bot API:<br/>
 [https://core.telegram.org/bots/API](https://core.telegram.org/bots/API)
 
